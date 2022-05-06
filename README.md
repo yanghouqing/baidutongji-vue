@@ -1,19 +1,16 @@
-# test
+# vue脚手架项目接入百度统计PV UV
 
-## Project setup
+## 下载依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run dev
 ```
 
-### Compiles and minifies for production
+### 打包部署
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

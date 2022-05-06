@@ -1,0 +1,45 @@
+/* 字体颜色 */
+
+.col-w {
+    color: #fff;
+}
+
+.col-w-o-1 {
+    color: rgba(255, 255, 255, 0.1);
+}
+
+.col-w-o-2 {
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.col-w-o-3 {
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.col-w-o-4 {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.col-w-o-5 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.col-w-o-6 {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.col-w-o-7 {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.col-w-o-8 {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.col-w-o-9 {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.col-l {
+    color: #1966ff;
+}
