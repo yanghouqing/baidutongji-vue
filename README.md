@@ -14,3 +14,8 @@ npm run dev
 ```
 npm run build
 ```
+
+### 访问
+```
+http://localhost:8080
+```
